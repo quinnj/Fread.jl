@@ -1,0 +1,4 @@
+name = "Fread"
+uuid = "1e4cb9ba-5cca-11e9-3040-1bc3fbd482f8"
+authors = ["quinnj <quinn.jacobd@gmail.com>"]
+version = "0.1.0"
